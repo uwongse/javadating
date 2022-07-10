@@ -1,7 +1,7 @@
 # Javadating
 Datting app with java and mysql.
 
-The project has adminr and a login with login or user registration.
+The project has admin and login with login or user registration.
 
 You can create a profile, upload your own posts, like the posts of other users in your area and send messages.
 
